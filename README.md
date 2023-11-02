@@ -16,7 +16,7 @@ We will then create a copy of the original data, and then add a new column of th
 Lastly we will create a scatter plot by using K-means and add the crypto names to identify the cryptocurrency that each data point represents.
 # Part 3 Optimize the Clusters with Principal Component Analysis
 In this part we will perform PCA analysis and reduce the features to three principal components
-We will get the explained variance to determine how much information can be attributed to each principal component.
+We will then be able to obtain the explained variance to determine how much information can be attributed to each principal component.
 Lastly answer the following question: What’s the total explained variance of the three principal components?
 
 # Part 4 Find the Best Value for k by Using the PCA Data
