@@ -35,7 +35,7 @@ Create a scatter plot with the labels that we found by using K-means. Then add t
 
 # Part 6 Visualize and Compare the Results
 In this last part we will visually analyse the cluster analysis results by observing the outcome both with and without the use of optimisation techniques.
-Create a composite plot to compare the elbow curve that we created from the original data with the one that we created from the PCA data.
-Create a composite plot to compare the cryptocurrency clusters that resulted from using the original data with those that resulted from the PCA data.
+We will create a composite plot to compare the elbow curve that we created from the original data with the one that we created from the PCA data.
+We will also create a composite plot to compare the cryptocurrency clusters that resulted from using the original data with those that resulted from the PCA data.
 Lastly answer the following question: Based on visually analysing the cluster analysis results, what’s the impact of using fewer features to cluster the data by using K-means?
 # End of Module 10
