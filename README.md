@@ -15,12 +15,12 @@ We will predict the clusters for grouping the cryptocurrencies by using the orig
 We will then create a copy of the original data, and then add a new column of the predicted clusters.
 Lastly we will create a scatter plot by using K-means and add the crypto names to identify the cryptocurrency that each data point represents.
 # Part 3 Optimize the Clusters with Principal Component Analysis
-In this part we will perform PCA analysis and reduce the features to three principal components
+In this part we will perform PCA analysis and reduce the features to three principal components.
 We will then be able to obtain the explained variance to determine how much information can be attributed to each principal component.
 Lastly answer the following question: What’s the total explained variance of the three principal components?
 
 # Part 4 Find the Best Value for k by Using the PCA Data
-Well start off by using the elbow method to find the best value for k by using the PCA data
+Well start off by using the elbow method to find the best value for k by using the PCA data.
 We will code the elbow method algorithm, and use the PCA data to find the best value for k, using a range from 1 to 11.
 We will then visually identify the optimal value for k, plot a line chart of all the inertia values computed with the different values of k.
 Lastly Answer the following questions: What’s the best value for k when using the PCA data? Does it differ from the best value for k that you found when using the original data?
