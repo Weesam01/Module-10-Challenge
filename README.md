@@ -1,15 +1,15 @@
 # Module-10-Challenge
-In this repository you will find a .ipynb file named Crypto Investments, in this file we assume the role of an advisor in one of the top five financial advisory firms in the world. The firm wants to assemble investment portfolios that are based on cryptocurrencies. Instead of basing your proposal on only returns and volatility, you want to include other factors that might impact the crypto market—leading to better performance for your portfolio. My job is to prototype for submitting a crypto portfolio proposal to the company board of directors.
+In this repository you will find a .ipynb file named Crypto Investments, in this file we assume the role of an advisor in one of the top five financial advisory firms in the world. The firm wants to assemble investment portfolios that are based on cryptocurrencies. Instead of basing my proposal on only returns and volatility, the board wants to include other factors that might impact the crypto market—leading to better performance of myy portfolio. My job is to create a prototype for submitting a crypto portfolio proposal to the company board of directors.
 # Part 1 Find the Best Value for k by Using the Original Data
 We will use the elbow method to find the best value for k by using the original data.
 We will then code the elbow method algorithm to find the best value for k, using a range from 1 to 11.
 We will then plot a line chart of all the inertia values computed with the different values of k.
-Lastly Answer the following question: What’s the best value for k?
+Lastly answer the following question: What’s the best value for k?
 
 # Part 2 Cluster the Cryptocurrencies with K-Means by Using the Original Data
 We will use the K-means algorithm along with the best value for k that we found by using the original data.
-We will use them to cluster the cryptocurrencies according to the provided price changes of the cryptocurrencies. 
-We will initialize the K-means model with four clusters by using the best value for k.
+We will then use them to cluster the cryptocurrencies according to the provided price changes of the cryptocurrencies. 
+We will then initialize the K-means model with four clusters by using the best value for k.
 We will fit the K-means model by using the original data.
 We will predict the clusters for grouping the cryptocurrencies by using the original data. Review the resulting array of cluster values.
 We will then create a copy of the original data, and then add a new column of the predicted clusters.
@@ -37,5 +37,5 @@ Create a scatter plot with the labels that we found by using K-means. Then add t
 In this last part we will visually analyse the cluster analysis results by observing the outcome both with and without the use of optimisation techniques.
 Create a composite plot to compare the elbow curve that we created from the original data with the one that we created from the PCA data.
 Create a composite plot to compare the cryptocurrency clusters that resulted from using the original data with those that resulted from the PCA data.
-Lastly Answer the following question: Based on visually analysing the cluster analysis results, what’s the impact of using fewer features to cluster the data by using K-means?
+Lastly answer the following question: Based on visually analysing the cluster analysis results, what’s the impact of using fewer features to cluster the data by using K-means?
 # End of Module 10
