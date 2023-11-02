@@ -11,7 +11,7 @@ We will use the K-means algorithm along with the best value for k that we found 
 We will then use them to cluster the cryptocurrencies according to the provided price changes of the cryptocurrencies. 
 We will then initialize the K-means model with four clusters by using the best value for k.
 We will fit the K-means model by using the original data.
-We will predict the clusters for grouping the cryptocurrencies by using the original data. Review the resulting array of cluster values.
+We will predict the clusters for grouping the cryptocurrencies by using the original data. 
 We will then create a copy of the original data, and then add a new column of the predicted clusters.
 Lastly we will create a scatter plot by using K-means and add the crypto names to identify the cryptocurrency that each data point represents.
 # Part 3 Optimize the Clusters with Principal Component Analysis
