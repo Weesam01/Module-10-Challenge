@@ -1,4 +1,3 @@
-# Module-10-Challenge
 
 # Module-10-Challenge
 In this repository you will find a .ipynb file named Crypto Investments, in this file we assume the role of an advisor in one of the top five financial advisory firms in the world. The firm wants to assemble investment portfolios that are based on cryptocurrencies. Instead of basing my proposal on only returns and volatility, the board wants to include other factors that might impact the crypto market—leading to better performance of myy portfolio. My job is to create a prototype for submitting a crypto portfolio proposal to the company board of directors.
